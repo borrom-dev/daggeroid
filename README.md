@@ -1,1 +1,1 @@
-# Completed Project Implemented With RxJava, Daggger, Retrofit
+# RxJava, Daggger, Retrofit
